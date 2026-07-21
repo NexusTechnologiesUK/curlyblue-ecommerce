@@ -12,3 +12,5 @@ Nexus Technologies Contribution
 Nexus Technologies designed and developed the complete website, delivering a responsive, SEO-optimized, and performance-focused solution that enhances the brand's online presence, improves user experience, and provides a fast, secure, and scalable eCommerce platform across all devices.
 
 https://curlyblue.com/
+
+![Curly Blue eCommerce Preview](./curlyblue.com.png)
